@@ -1,6 +1,6 @@
 const Cart = () => {
   return (
-    <div className="hover:cursor-pointer">
+    <div className="hover:cursor-pointer hidden lg:block">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="24"
