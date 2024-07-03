@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <>
       <MobNavbar />
-      <div className="hidden md:flex items-center justify-between gap-[2.7vw] py-5 md:px-6 lg:px-16 xl:px-24 shadow">
+      <div className="hidden md:flex bg-white items-center justify-between gap-[2.7vw] py-5 md:px-6 lg:px-16 xl:px-24 shadow">
         <div className="left-nav flex gap-8 items-center">
           <div className="log">
             <img src={logo} alt="" />
